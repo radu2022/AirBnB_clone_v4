@@ -1,3 +1,8 @@
+# <img src="https://intranet.hbtn.io/assets/holberton-logo-default-27055cb2f875eb10bf3b3942e52a24581bc0667695bdc856d4f08b469b678000.png" width="30"> AirBnB Clone V.4 - Web dynamic
+
+## Synopsis
+This is the 4th version of our AirBnB clone project. We will be using python3, RESTful API, MySQL, Flask, and jQuery AJAX
+
 # AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
